@@ -65,11 +65,13 @@ p {
     margin-left: 20px;
 }
 
+/* Formatting body images to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Formatting body images to the right */
 .float-right {
     float: right;
     margin-left: 25px;
