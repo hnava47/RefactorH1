@@ -11,7 +11,7 @@
 
 <!-- Table of Contents -->
 <details>
-    <summary><span style="font-size: 25px;">Table of Contents</span></summary>
+    <summary>Table of Contents</summary>
     <ol>
         <li><a href="#about-the-project">About The Project</a></li>
         <li><a href="#contact">Contact</a></li>
