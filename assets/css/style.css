@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/* Changing color on to specify 'seo' on 'Horiseon' */
 .seo {
     color: #d9dcd6;
 }
@@ -32,16 +33,19 @@ body {
     font-size: 20px;
 }
 
+/* Formatting header lists at the top right of page */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Formatting reference links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Formatting large image of group meeting */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,7 +65,12 @@ p {
     margin-left: 20px;
 }
 
-.content img {
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
     float: right;
     margin-left: 25px;
 }
