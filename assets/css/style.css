@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -42,10 +42,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -53,6 +49,10 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+p {
+    font-size: 16px;
 }
 
 .content {
