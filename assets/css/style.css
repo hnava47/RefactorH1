@@ -60,6 +60,7 @@ p {
     font-size: 16px;
 }
 
+/* Formatting for all content elements including h2, div, and img */
 .content {
     width: 75%;
     display: inline-block;
@@ -96,6 +97,7 @@ p {
     margin-left: 25px;
 }
 
+/* Formatting for all benefits elements including h3, div, and img */
 .benefits {
     margin-right: 20px;
     padding: 20px;
